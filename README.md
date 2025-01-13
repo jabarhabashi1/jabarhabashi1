@@ -61,6 +61,12 @@
    - *Earth Science Informatics, 2025*  
    - DOI: [10.1007/s12145-024-01534-w](https://doi.org/10.1007/s12145-024-01534-w)
 
+### 📚 **Book Chapter**
+1. **Mineral Identification Using Remote Sensing Data**  
+   - Published in: *Remote Sensing for Geophysicists*  
+   - Publisher: CRC Press  
+   - Year: 2025  
+   - DOI: [10.1201/9781003485278-25](https://doi.org/10.1201/9781003485278-25)
 
 📚 **[Full List of Publications](https://www.researchgate.net/profile/Jabar-Habashi)**  
 
