@@ -37,6 +37,7 @@
 ---
 
 ## 📜 **Publications**
+ ### 📚 **Articles**
 1. **Classification of ASTER Data by Neural Network for Mapping Alterations Related to Copper and Iron Mineralization in Birjand**  
    - *Journal of Mining and Environment, 2024*  
    - DOI: [10.22044/jme.2023.13640.2520](https://doi.org/10.22044/jme.2023.13640.2520)
@@ -61,7 +62,7 @@
    - *Earth Science Informatics, 2025*  
    - DOI: [10.1007/s12145-024-01534-w](https://doi.org/10.1007/s12145-024-01534-w)
 
-### 📚 **Book Chapter**
+### 📚 **Book Chapters**
 1. **Mineral Identification Using Remote Sensing Data**  
    - Published in: *Remote Sensing for Geophysicists, 2025*  
    - DOI: [10.1201/9781003485278-25](https://doi.org/10.1201/9781003485278-25)
