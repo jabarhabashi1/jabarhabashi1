@@ -49,14 +49,14 @@
 3. **Optimizing Alteration Mineral Detection: Fusion of Multispectral and Hyperspectral Techniques in Sar-e-Chah-e Shur, Iran**  
    - *Remote Sensing Applications: Society and Environment, 2024*  
    - DOI: [10.1016/j.rsase.2024.101249](https://doi.org/10.1016/j.rsase.2024.101249)
+     
+4. **Regional Mapping of Basement Lithologies Using Geospatial Data in Semi-Arid Regions**  
+   - *Advances in Geological and Geotechnical Engineering Research, 2024*  
+   - DOI: [10.30564/agger.v6i2.6130](https://doi.org/10.30564/agger.v6i2.6130)
 
-4. **Mineral Identification Using Remote Sensing Data**  
+5. **Mineral Identification Using Remote Sensing Data**  
    - *Remote Sensing for Geophysicists, CRC Press, 2025*  
    - DOI: [10.1201/9781003485278-25](https://doi.org/10.1201/9781003485278-25)
-
-5. **Regional Mapping of Basement Lithologies Using Geospatial Data in Semi-Arid Regions**  
-   - *Advances in Geological and Geotechnical Engineering Research, 2025*  
-   - DOI: [10.30564/agger.v6i2.6130](https://doi.org/10.30564/agger.v6i2.6130)
 
 6. **RecSpecCNN: Recurrent-Spectral Convolutional Neural Networks for Hyperspectral Lithological Classification**  
    - *Earth Science Informatics, 2025*  
