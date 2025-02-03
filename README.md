@@ -70,7 +70,7 @@
 - **Programming:** Python, MATLAB  
 - **Remote Sensing Software:** ENVI, ArcGIS Pro, Surfer  
 - **Data Analysis:** Geosoft Oasis Montaj, Geotomo Software RES2DINV  
-- **Specialized Knowledge:** Hyperspectral & LiDAR Data Processing, Satellite Image Fusion, AI-driven Predictive Modeling, Optimization  
+- **Specialized Knowledge:** Hyperspectral & LiDAR Data Processing, Satellite Image Fusion, Optimization, Deep Learning, AI-driven Predictive Modeling,  
 
 ---
 
