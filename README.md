@@ -61,6 +61,10 @@
 6. **RecSpecCNN: Recurrent-Spectral Convolutional Neural Networks for Hyperspectral Lithological Classification**  
    - *Earth Science Informatics, 2025*  
    - DOI: [10.1007/s12145-024-01534-w](https://doi.org/10.1007/s12145-024-01534-w)
+     
+ 7. **Integration of ASTER imagery and field data for chromite exploration in the Eastern Khoy Ophiolite Complex, NW Iran.**
+    - *Earth Science Informatics, 2025*
+    - DOI: [10.1007/s12145-025-01734-y](https://doi.org/10.1007/s12145-025-01734-y)
 
 📚 **[Full List of Publications](https://www.researchgate.net/profile/Jabar-Habashi)**  
 
