@@ -108,7 +108,7 @@
 ---
 
 ## 📫 **Contact**
-For collaboration opportunities, research inquiries, or professional discussions, feel free to reach out via [email](mailto:jabar.habashi1995@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/jabar-habashi).
+For collaboration opportunities, research inquiries, or professional discussions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jabar-habashi).
 
 ---
 
