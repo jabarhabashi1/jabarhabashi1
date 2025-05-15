@@ -1,6 +1,6 @@
 # 🌍 Jabar Habashi
 
-**Email:** [📧](mailto:jabar.habashi95@gmail.com)   
+**Email:** [📧]()   
 **LinkedIn:** [🌐 ](https://www.linkedin.com/in/jabar-habashi)  
 **ResearchGate:** [📖](https://www.researchgate.net/profile/Jabar-Habashi)  
 **Google Scholar:** [📚](https://scholar.google.com/citations?user=XXXXXXXX)  
@@ -30,9 +30,9 @@
 - Geospatial Data Integration & Predictive Modeling  
 - Environmental Impact Assessment 🌱  
 - Hyperspectral Image Analysis and LiDAR Data Processing  
-- Geohazards and Climate Change 🌐  
-- Drone and UAV Applications 🚁  
-- Satellite Image Fusion  
+- Geohazards and Climate Change 🌐    
+- Satellite Image Fusion
+- Mine Closure, Reclamation, and Post-Mining Land Use 
 
 ---
 
@@ -101,9 +101,6 @@
 ---
 
 ## 💼 **Work Experience**
-- **Data Scientist**, Remote Sensing Surveys for Mining Exploration  
-  - *Scan Miner Solutions Team, Turkey & Iran (2024)*  
-  - Conducted advanced remote sensing analysis for bauxite and mineral alteration studies.
 
 - **Teaching Assistant**, Malayer University (2015–2017)  
   - Assisted in courses including Optical Mineralogy, Descriptive Mineralogy, and Petrology.  
