@@ -8,14 +8,14 @@
 ---
 
 ## 🎓 **Education**
-### MSc in Mining Exploration Engineering  
+### MSc in Mining Engineering - Mineral Exploration 
 **Sahand University of Technology, Tabriz, Iran**  
 *Sept 2019 – Sept 2023*  
 - **GPA:** 3.06/4  
 - **Thesis:** *Multispectral Data Classification of the Birjand Region Using Hyperion Data Processing Results*  
 - **Supervisor:** Dr. Majid Mohammady Oskouei  
 
-### BSc in Mineral Engineering  
+### BSc in Mining Engineering  
 **Malayer University, Malayer, Hamedan, Iran**  
 *Sept 2014 – May 2019*  
 - **GPA:** 3.01/4  
