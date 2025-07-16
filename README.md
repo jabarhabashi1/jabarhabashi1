@@ -65,7 +65,9 @@
  7. **Integration of ASTER imagery and field data for chromite exploration in the Eastern Khoy Ophiolite Complex, NW Iran.**
     - *Earth Science Informatics, 2025*
     - DOI: [10.1007/s12145-025-01734-y](https://doi.org/10.1007/s12145-025-01734-y)
-
+ 8. **Revealing critical mineralogical insights in extreme environments using deep learning technique on hyperspectral PRISMA satellite imagery: Dry Valleys, South Victoria Land, Antarctica**
+    - *ISPRS Journal of Photogrammetry and Remote Sensing 2025*
+    - DOI: [10.1016/j.isprsjprs.2025.07.005](https://doi.org/10.1016/j.isprsjprs.2025.07.005)
 📚 **[Full List of Publications](https://www.researchgate.net/profile/Jabar-Habashi)**  
 
 ---
