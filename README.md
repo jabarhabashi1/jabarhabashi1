@@ -105,12 +105,13 @@
 
 ## 💼 **Work Experience**
 
-- **Teaching Assistant**, Malayer University (2015–2017)  
+- **Data Scientist**, Scan Miner Solutions (July 2024 – Present).
+- **Teaching Assistant**, Malayer University (2015–2017).
   - Assisted in courses including Optical Mineralogy, Descriptive Mineralogy, and Petrology.  
 
 ---
 
-## GUEST EDITOR & PEER REVIEWER                                                                                                                                                                   
+## 🔍 GUEST EDITOR & PEER REVIEWER                                                                                                                                                                   
 
 -	Guest Editor, Journal of Asian Earth Sciences: X (May 29, 2025 – Present)
 -	Reviewer for journals including Remote Sensing Applications: Society and Environment, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Earth Science Informatics, Scientific Reports, Environmental Monitoring and Assessment, npj Heritage Science, Geomechanics & Geophysics for Geo-Energy & Geo-Resources, Environmental Geochemistry & Health, Sensing and Imaging, Geoscience Frontiers, and for the 2025 IEEE-IGARSS 2025.
