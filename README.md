@@ -85,7 +85,6 @@
 - Ranked in the **Top 1%** of BSc national entrance exam participants (2014).  
 - **Full Scholarship** recipient at Malayer University (2014–2019).  
 - Ranked **30th** in MSc national entrance exam (2019).  
-- **Reviewer Contributions:** Remote Sensing Applications: Society and Environment (2024).  
 
 ---
 
