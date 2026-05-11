@@ -1,10 +1,10 @@
 # 🌍 Jabar Habashi
 
-**Email:** [Jabariabashi95@gmail.com](mailto:Jabariabashi95@gmail.com) | **Phone:** [(+98) 918 010 7484](tel:+989180107484)  
-**LinkedIn:** [linkedin.com/in/jabar-habashi](https://www.linkedin.com/in/jabar-habashi)  
-**ResearchGate:** [researchgate.net/profile/Jabar-Habashi](https://www.researchgate.net/profile/Jabar-Habashi)  
-**Google Scholar:** [scholar.google.com/citations?user=XXXXXXXX](https://scholar.google.com/citations?user=XXXXXXXX) *(update user ID when available)*  
-**Google Scholar:** [📚](https://scholar.google.com/citations?user=XXXXXXXX)  
+**Email:** [📧](mailto:Jabariabashi95@gmail.com) | **Phone:** [📞](tel:+989180107484)  
+**LinkedIn:** [🌐](https://www.linkedin.com/in/jabar-habashi)  
+**ResearchGate:** [📖](https://www.researchgate.net/profile/Jabar-Habashi)  
+**Google Scholar:** [📚](https://scholar.google.com/citations?user=XXXXXXXX) *(update user ID when available)*  
+**GitHub:** [💻](https://github.com/jabariabashi) *(placeholder – update if needed)*
 
 ---
 
