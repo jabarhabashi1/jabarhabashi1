@@ -73,10 +73,10 @@
 
 ## 🛠 Skills & Software
 
-- **Programming & AI:** Python, Machine Learning, Deep Learning, AI Agent  
-- **Remote Sensing & GIS:** ArcGIS Pro, ENVI, Hyperspectral & Multispectral Data Processing, Satellite Image Fusion, LiDAR/SAR/PALSAR Processing, Geospatial Data Integration  
-- **Geophysics & Data Analysis:** Geosoft Oasis montaj, Geotomo RES2DINV, Mineral Prospectivity Mapping, Data Fusion & Multi-Source Integration  
-- **Professional:** Strong Analytical & Problem-Solving Skills  
+- 🧑‍💻 **Programming & AI:** Python, Machine Learning, Deep Learning, AI Agent  
+- 🛰️ **Remote Sensing & GIS:** ArcGIS Pro, ENVI, Hyperspectral & Multispectral Data Processing, Satellite Image Fusion, LiDAR/SAR/PALSAR Processing, Geospatial Data Integration  
+- 🔬 **Geophysics & Data Analysis:** Geosoft Oasis montaj, Geotomo RES2DINV, Mineral Prospectivity Mapping, Data Fusion & Multi-Source Integration  
+- 💡 **Professional:** Strong Analytical & Problem-Solving Skills  
 
 ---
 
