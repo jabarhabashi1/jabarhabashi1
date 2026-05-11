@@ -26,20 +26,20 @@
 ---
 
 ## 🔬 Research Interests
-- Mining Automation  
-- Data Fusion & Multi-Source Analysis  
-- Optimization  
-- Hyperspectral Image Analysis  
-- Predictive Modeling for Resource Estimation  
-- LiDAR Data Processing  
-- Mine Closure, Reclamation, and Post-Mining Land Use  
-- Geospatial Data Integration  
-- Hydrologic Modeling and Data Assimilation  
-- Climate Change  
-- AI Agent  
-- Radar Data Processing  
-- Physics-Informed Machine Learning (PIML)  
-- Environmental Impact Assessment  
+- 🤖⛏️ Mining Automation
+- 🧩 Data Fusion & Multi-Source Analysis
+- 🎯 Optimization
+- 🌈 Hyperspectral Image Analysis
+- 🔮 Predictive Modeling for Resource Estimation
+- 💡 LiDAR Data Processing
+- 🌱♻️ Mine Closure, Reclamation, and Post-Mining Land Use
+- 🗺️ Geospatial Data Integration
+- 💧 Hydrologic Modeling and Data Assimilation
+- 🌡️ Climate Change
+- 🤖 AI Agent
+- 📡 Radar Data Processing
+- ⚛️🤖 Physics-Informed Machine Learning (PIML)
+- 🌿✅ Environmental Impact Assessment
 
 ---
 
