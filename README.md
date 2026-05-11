@@ -3,8 +3,7 @@
 **Email:** [📧](mailto:Jabariabashi95@gmail.com) | **Phone:** [📞](tel:+989180107484)  
 **LinkedIn:** [🌐](https://www.linkedin.com/in/jabar-habashi)  
 **ResearchGate:** [📖](https://www.researchgate.net/profile/Jabar-Habashi)  
-**Google Scholar:** [📚](https://scholar.google.com/citations?user=XXXXXXXX) *(update user ID when available)*  
-**GitHub:** [💻](https://github.com/jabariabashi) *(placeholder – update if needed)*
+**Google Scholar:** [📚](https://scholar.google.com/citations?user=XXXXXXXX) 
 
 ---
 
