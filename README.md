@@ -4,7 +4,7 @@
 **LinkedIn:** [linkedin.com/in/jabar-habashi](https://www.linkedin.com/in/jabar-habashi)  
 **ResearchGate:** [researchgate.net/profile/Jabar-Habashi](https://www.researchgate.net/profile/Jabar-Habashi)  
 **Google Scholar:** [scholar.google.com/citations?user=XXXXXXXX](https://scholar.google.com/citations?user=XXXXXXXX) *(update user ID when available)*  
-**GitHub:** [github.com/jabariabashi](https://github.com/jabariabashi) *(placeholder – update if needed)*
+**Google Scholar:** [📚](https://scholar.google.com/citations?user=XXXXXXXX)  
 
 ---
 
