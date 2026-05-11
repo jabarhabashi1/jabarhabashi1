@@ -119,7 +119,8 @@
 
 ## 🔍 Guest Editor & Peer Reviewer
 
-- **Guest Editor,** *Journal of Asian Earth Sciences: X* (May 29, 2025 – Present)  
+- **Guest Editor,** *Journal of Asian Earth Sciences: X* (May 29, 2025 – Present)
+  
 - **Peer Reviewer** for journals:  
   *ISPRS Journal of Photogrammetry and Remote Sensing*,  
   *Remote Sensing Applications: Society and Environment*,  
@@ -133,7 +134,8 @@
   *Environmental Geochemistry & Health*,  
   *Sensing and Imaging*,  
   *Geoscience Frontiers*,  
-  *Journal of Asian Earth Sciences*  
+  *Journal of Asian Earth Sciences*
+  
 - **Conference Reviewer:** IEEE IGARSS 2026 (Washington, USA) & IEEE IGARSS 2026 (Brisbane, Australia)
 
 ---
