@@ -1,6 +1,6 @@
 # 🌍 Jabar Habashi
 
-**Email:** [📧](mailto:Jabariabashi95@gmail.com) | **Phone:** [📞] [(+98) 918 010 7484](tel:+989180107484)  
+**Email:** [📧](mailto:Jabariabashi95@gmail.com) | **Phone:** 📞 [(+98) 918 010 7484](tel:+989180107484)  
 **LinkedIn:** [🌐](https://www.linkedin.com/in/jabar-habashi)  
 **ResearchGate:** [📖](https://www.researchgate.net/profile/Jabar-Habashi)  
 **Google Scholar:** [📚](https://scholar.google.com/citations?user=XXXXXXXX) 
