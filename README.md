@@ -144,21 +144,22 @@
 1. **Dr. Amin Beiranvand Pour**  
    Associate Professor, Institute of Oceanography & Environment (INOS),  
    University Malaysia Terengganu (UMT), 21030 Kuala Nerus, Terengganu, Malaysia  
-   📧 beiranvand.amin80@gmail.com | beiranvand.pour@umt.edu.my
+   📧 [beiranvand.amin80@gmail.com](mailto:beiranvand.amin80@gmail.com) | [beiranvand.pour@umt.edu.my](mailto:beiranvand.pour@umt.edu.my)
 
 2. **Dr. Mahyar Yousefi**  
    Associate Professor, Malayer University, Malayer, Iran  
-   📧 mahyar.yousefi.mun@gmail.com
+   📧 [mahyar.yousefi.mun@gmail.com](mailto:mahyar.yousefi.mun@gmail.com)
 
 3. **Dr. Ali Moradi Afrapoli**  
    Assistant Professor, Lighthouse Beacon Foundation Scholar,  
    Department of Mining Engineering, University of Kentucky,  
    230 Mining & Mineral Resources Building, 310 Columbia Ave, Lexington, KY 40506, USA  
-   📧 ali.moradi@uky.edu
+   📧 [ali.moradi@uky.edu](mailto:ali.moradi@uky.edu)
 
 4. **Dr. Navid Shad Manaman**  
    Associate Professor in Mining Engineering, Sahand University of Technology, Tabriz, Iran  
-   📧 n.s.manaman@gmail.com
+   📧 [n.s.manaman@gmail.com](mailto:n.s.manaman@gmail.com)
+
 ---
 
 *“Science is not only a discipline of reason but also one of romance and passion.”* – Stephen Hawking
